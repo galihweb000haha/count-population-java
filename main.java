@@ -93,30 +93,6 @@ public class kiyekeh {
             }  
         }
     }
-    public static void tampil(){
-//        Scanner key = new Scanner(System.in);
-//        String [][] penduduk = new String[10][10];
-//        
-//        for(int i = 0; i < 10; i++ ){
-//            
-//            System.out.println(i);
-//            
-////            for(int j = 0; j <= 1; j++){
-////                System.out.print(i);
-////                System.out.print(j);
-//                System.out.print("masukan nama:");
-//                penduduk[i][0] = key.nextLine();
-//                System.out.print("masukan umur:");
-//                penduduk[i][1] = key.nextLine();
-//                
-//                
-////            }
-//            System.out.println("");
-//            
-//            
-//        }
-//        return penduduk[];
-       
-    }
+// I want the population to be unlimited, is there anyone who can help me, please..
     
 }
